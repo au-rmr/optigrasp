@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use OptiGrasp, please cite the paper."
+title: "OptiGrasp"
+repository-code: "https://github.com/au-rmr/optigrasp"
+license: MIT
+authors:
+  - family-names: Atar
+    given-names: Soofiyan
+  - name: "UW au-rmr project contributors"
+preferred-citation:
+  type: article
+  title: "OptiGrasp: Optimized Grasp Pose Detection Using RGB Images for Warehouse Picking Robots"
+  authors:
+    - family-names: Atar
+      given-names: Soofiyan
+    - family-names: Li
+      given-names: Yi
+    - family-names: Grotz
+      given-names: Markus
+    - family-names: Wolf
+      given-names: Michael
+    - family-names: Fox
+      given-names: Dieter
+    - family-names: Smith
+      given-names: Joshua
+  year: 2024
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2409.19494"
+  url: "https://arxiv.org/abs/2409.19494"
